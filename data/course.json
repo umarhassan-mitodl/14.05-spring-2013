@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ]
+  ],
+  "legacy_uid": "07e735ea-648b-bc61-97b8-a48142c91a43",
+  "instructors": {
+    "content": [
+      "84f1c8ea-ca40-29e3-7440-0fb494dcef3e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c9cb05a4-6301-f892-adf8-931fa52a00e4",
+    "website": "14-05-intermediate-macroeconomics-spring-2013"
+  },
+  "course_title": "Intermediate Macroeconomics",
+  "course_description": "This course uses the tools of macroeconomics to study various macroeconomic policy problems in-depth. The problems range from economic growth in the long run, to government finances in the intermediate run, and economic stability in the short run. Many economic models used today are surveyed.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.05",
+  "course_image_thumbnail": {
+    "content": "d57763ae-c270-193e-7b9d-d93c98f4965b",
+    "website": "14-05-intermediate-macroeconomics-spring-2013"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes",
+    "Instructor Insights"
+  ],
+  "site_uid": "300e767a-9d6c-4c95-b2ef-a3f0db31c278",
+  "site_short_id": "14.05-spring-2013",
+  "site_url_path": "courses/14-05-intermediate-macroeconomics-spring-2013",
+  "title": "Course Metadata"
+}
